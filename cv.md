@@ -8,7 +8,7 @@ function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
-}```
+} ```
 
 6. ### Codeacademy cources : HTML, CSS. HTMLacademy.
 7. ### RSSCHOOL
