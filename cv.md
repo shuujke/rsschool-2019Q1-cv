@@ -1,9 +1,9 @@
-1.#**Aleksey Ozhigov**
-2.##+375339020372
-3.##**Frontend Developer**
+1.# **Aleksey Ozhigov**
+2.## +375339020372
+3.## **Frontend Developer**
 available 24/7
 4. Skills (HTML,CSS,bash,git,linux,win,js)
-5. ```<!DOCTYPE html>
+5. ``` <!DOCTYPE html>
    <html>
    <body>
    <h1>My First Heading</h1>
